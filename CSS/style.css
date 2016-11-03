@@ -26,9 +26,24 @@
   
 }
 
+#parceiro1 {
+   background: url(images/Nike.png);
+}
+#parceiro2 {
+    background: url(images/dafiti.png);
+}
 
+#parceiro3 {
+    background: url(images/walmart-logo.png);
+}
 
+#parceiro4 {
+    background: url(images/c&apng.png);
+}
 
+.logo-footer {
+    background: url(images/logo_footer.png);
+}
 /*.topnavbar {
     background-color: #36343c;
     color: #ffffff;
