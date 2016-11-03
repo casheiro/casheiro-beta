@@ -1,0 +1,21 @@
+{
+  "name": "casheiro",
+  "homepage": "https://github.com/casheiro/casheiro-beta",
+  "authors": [
+    "neto <netomantonio@gmail.com>"
+  ],
+  "description": "site-beta-casheiro",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
