@@ -1,0 +1,26 @@
+a.text-menu-left, a.text-menu-right {
+	color:  #fff !important;
+}
+
+a.text-menu-left:hover, a.text-menu-right:hover {
+	color: #f68712 !important;
+	
+
+}
+i:hover + span, div.menu-col:hover + span {
+	display: none !important;
+}
+
+div.right:hover + span{
+	display: none !important;
+}
+
+.menu-col {
+	margin-top: 20px !important;
+}
+
+#img-fundo-slider {
+	height: 352px !important;
+	margin-left: 1em !important;
+	background-image: url("../images/Imagem-Slide_F.png") !important;
+}
